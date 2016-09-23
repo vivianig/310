@@ -54,7 +54,7 @@ A [status code reference](https://httpstatuses.com/) is available if you want to
 
 ## Query Engine
 
-The goal of the deliverable is to build the backend to reply to query about the dataset. The query will be based on the EBNF described below. Note, this EBNF is for the WHERE portion of the query only.
+The goal of the deliverable is to build the backend to reply to query about the dataset. The query will be based on the EBNF described below.
 
 ### PREAMBLE
 
